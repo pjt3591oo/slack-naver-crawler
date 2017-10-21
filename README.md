@@ -34,4 +34,4 @@ token은 해당 슬렉에 맞는 토큰으로 바꾸어 준다.
 
 ![결과 이미지](https://github.com/pjt3591oo/slack-naver-crawler/blob/master/images/slack_result.png)
 
-[결과 보러가기!]('https://api.slack.com/custom-integrations/legacy-tokens')
+[결과 보러가기!](https://github.com/pjt3591oo/slack-naver-crawler/blob/master/images/slack_result.png)
