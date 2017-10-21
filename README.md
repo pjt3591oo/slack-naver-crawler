@@ -20,7 +20,7 @@ token = '발급받은 토큰'
 channel = '#general'
 ```
 
-[토큰 확인]('https://api.slack.com/custom-integrations/legacy-tokens')
+[토큰 확인](https://api.slack.com/custom-integrations/legacy-tokens)
 
 token은 해당 슬렉에 맞는 토큰으로 바꾸어 준다. 
 
